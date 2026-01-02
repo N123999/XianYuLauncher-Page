@@ -65,5 +65,3 @@
 ## 下一步
 
 - [常见问题](./faq.md)
-- [故障排除](./troubleshooting.md)
-- [联系我们](./contact.md)
