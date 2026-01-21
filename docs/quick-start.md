@@ -2,7 +2,7 @@
 
 ## 下载启动器
 
-1. 访问 [XianYuLauncher 官方网站](https://www.spiritstudio.com.cn/XianYuLauncher/) 或 [BBSMC](https://bbsmc.net/software/xianyulauncher) 或 [Lanzou](https://wwsa.lanzoub.com/XianYuLauncher) 或 [Github](https://github.com/N123999/XianYuLauncher-Help/releases)
+1. 访问 [XianYuLauncher 官方网站](https://xianyulauncher.com/) 或 [BBSMC](https://bbsmc.net/software/xianyulauncher) 或 [Github](https://github.com/XianYuLauncher/XianYuLauncher/releases)
 2. 点击 "下载" 按钮
 3. 等待下载完成
 
